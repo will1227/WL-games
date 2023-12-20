@@ -1,0 +1,25 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "Zelda Tears Of The Kingdom",
+      "descricao": "The Legend of Zelda: Tears of the Kingdom é um jogo eletrônico de ação-aventura desenvolvido e publicado pela Nintendo. Foi lançado em 12 de maio de 2023 para Nintendo Switch. Ele faz parte da série The Legend of Zelda, e é a sequência de The Legend of Zelda: Breath of the Wild",
+      "foto": "jogo1.PNG",
+      "preco": 300
+    },
+    {
+      "id": 2,
+      "produto": "Mario Wonder",
+      "descricao": "Super Mario Bros. Wonder é um jogo eletrônico de plataforma desenvolvido e publicado pela Nintendo. Foi lançado para o Nintendo Switch em 20 de outubro de 2023, sendo o primeiro jogo de rolagem lateral da série Super Mario desde New Super Mario Bros. U.",
+      "foto": "jogo2.PNG",
+      "preco": 200
+    },
+    {
+      "id": 3,
+      "produto": "Red Dead Redemption 2",
+      "descricao": "Red Dead Redemption 2 é um jogo eletrônico de ação-aventura desenvolvido e publicado pela Rockstar Games. É o terceiro título da série Red Dead e uma prequela de Red Dead Redemption, tendo sido lançado em outubro de 2018 para PlayStation 4 e Xbox One e em novembro de 2019 para Microsoft Windows e Google Stadia.",
+      "foto": "jogo3.PNG",
+      "preco": 400
+    }
+  ]
+}
